@@ -1,0 +1,36 @@
+header H1 {
+    font-family: "Akira Expanded", sans-serif;
+    color: rgb(255, 37, 37);
+    text-align: center;
+    font-size: 72px;
+}
+p{
+    color: white;
+}
+html{
+    background-color: #1f1f1f;
+}
+#kleurrood{
+    color: red;
+}
+p.oranje {
+    color: orange;
+}
+footer.p{
+    color: blue;
+}
+.cursief{
+    font-style: italic;
+}
+
+nav ul li a{
+    color: red;
+    font-weight: 700;
+    text-decoration:"none";
+}
+nav ul li a:hover {
+    color: white;
+    text-decoration: underline;
+    font-weight: 400;
+}
+/* commentaar */

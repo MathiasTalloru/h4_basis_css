@@ -1,0 +1,30 @@
+body{
+    background-color: #F1F0F1;
+}
+h1{
+    background-color: #000000;
+    color: #F1F0F1;
+    font-size: 48px;
+    font-family: "Arial Black", sans-serif;
+    text-transform: capitalize;
+    padding: 25px 25px;
+    
+}
+h2{
+    color: #505050;
+    font-family: "Arial Black", sans-serif;
+    text-transform: capitalize;
+    border: 3px #58A518;
+    margin 0px 40px;
+}
+p{
+    font-family: arial, sans-serif;
+}
+li{
+    font-family: arial, sans-serif;
+}
+hr{
+    background-color: #5cbb00;
+    height: 3px;
+    border: none;
+}

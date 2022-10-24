@@ -1,0 +1,51 @@
+body{
+    background-image: url("assets/doom.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+nav ul li {
+    list-style-type: none;
+}
+nav ul li a {
+    color: black;
+}
+
+
+main{
+    padding: 50px 10px 100px 10px;
+    margin: 50px auto; /*auto zorgt ervoor dat uw tekst in het midden blijft als ge de pagina grootte aanpast*/
+    width: 1000px;
+
+    /*border-width: 4px;
+    border-style: dashed;
+    border color(black);*/
+    border: 4px solid #ff002d;
+    border-radius: 50px;
+
+    background-color: #ff002d;
+}
+
+main h1{
+    font-family: "Akira Expanded", sans-serif;
+    font-size: xxx-large;
+    color: #000000;
+    text-align: center;
+}
+
+main p{
+    line-height: 30px;
+    text-decoration: underline;
+    color: #000000;
+    text-align: center;
+}
+
+main ul li{
+    list-style-type: square;
+}
+main ol li{
+    list-style-type: upper-roman;
+    background-color: #a60000;
+    list-style-position: inside;
+}

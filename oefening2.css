@@ -1,0 +1,62 @@
+body{
+    background-color: #1f1f1f;
+    text-align: center;
+}
+h1{
+    font-weight: bolder;
+    font-family: "Akira Expanded", sans-serif;
+    font-size: xxx-large;
+    color: white;
+    padding: 25px 25px;
+    background-color: #505050;
+    border: 20px solid #505050;
+    border-radius: 20px;
+}
+h2{
+    color: #ff4242;
+    font-family: "Arial Black";
+    border: 4px solid black;
+    border-radius: 20px;
+    background-color: black;
+    width: fit-content;
+    margin: auto;
+}
+
+iframe{
+    border: 5px solid red;
+    width: 1220px;
+    height: 680px;
+    border-radius: 20px;
+}
+a:hover{
+    color: #ff4a4a;
+}
+a {
+    color: red;
+    text-decoration: none;
+}
+ol{
+    color: white;
+    list-style-position: inside;
+    list-style-type: decimal-leading-zero;
+
+
+}
+ul{
+    font-family: "Arial Black";
+    color: lightblue;
+    list-style-type: circle;
+    list-style-position: inside;
+
+}
+ul li a{
+    color: white;
+    font-size: x-large;
+}
+
+img{
+    width: 600px;
+}
+footer {
+    color: lightgrey;
+}

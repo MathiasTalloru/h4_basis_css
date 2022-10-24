@@ -1,0 +1,26 @@
+body{
+    background-color: #151C28;
+    text-align: center;
+}
+h1{
+    color: #FFE14F;
+    font-size: xxx-large;
+}
+h1 span{
+    color: #8DAEC6;
+}
+img{
+    width: 200px;
+    height: 200px;
+
+}
+section{
+    border: 2px solid #FFE14F;
+    border-radius: 10px;
+    width: 650px;
+    margin: auto;
+
+}
+audio{
+    width: 400px;
+}
